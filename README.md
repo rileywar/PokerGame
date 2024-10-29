@@ -21,7 +21,7 @@ Welcome to the Poker Game! This is a two-player poker game implemented in Python
    git clone https://github.com/rileywar/PokerGame.git
    cd PokerGame
 
-##Acknowledgements
+## Acknowledgements
 
 Thank you to notaSWE for the idea and support!
 
