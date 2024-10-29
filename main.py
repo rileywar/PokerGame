@@ -35,6 +35,7 @@ class Game:
                     if event.button == 1:
                         if mouse_down:
                             mouse_down = False
+                            self.hand = Hand()
 
             # Time variables
             self.delta_time = (pygame.time.get_ticks() - self.start_time) / 1000
